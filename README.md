@@ -24,7 +24,7 @@ Market Basket Analysis (Sepet Analizi) kullanarak ürün tavsiye sistemi. Aprior
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/kullanici_adi/urun_tavsiye.git
+git clone https://github.com/Samet-kok/urun_tavsiye.git
 cd urun_tavsiye
 ```
 
